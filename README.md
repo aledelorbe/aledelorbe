@@ -3,7 +3,7 @@
 ## I'm student and I'm software designer.
 
 ### Languages and Tools:
-- [Java][<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]
+- <img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 
 ## 🔎 My stats:
 <details>
