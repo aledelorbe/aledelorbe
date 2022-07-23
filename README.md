@@ -3,13 +3,13 @@
 ## I'm student and I'm software designer.
 
 ### Languages and Tools:
-- <img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-
-- <img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-
-- <img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-
-- <img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+- <img align="left" alt="CursoC" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<br />
+- <img align="left" alt="CursoC" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<br />
+- <img align="left" alt="CursoC" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+<br />
+- <img align="left" alt="CursoC" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 
 ## 🔎 My stats:
 <details>
