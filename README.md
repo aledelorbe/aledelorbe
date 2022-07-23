@@ -3,9 +3,9 @@
 ## I'm student and I'm software designer.
 
 
-## 🔎 Mis estadisticas:
+## 🔎 My stats:
 <details>
-    <summary>🔎 Ver</summary>
+    <summary>🔎 View </summary>
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aledelorbe&show_icons=true&theme=tokyonight)
 
