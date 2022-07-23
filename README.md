@@ -4,12 +4,10 @@
 
 ### Languages and Tools:
 <img align="left" alt="CursoC" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-
 <img align="left" alt="CursoC" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-
 <img align="left" alt="CursoC" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-
 <img align="left" alt="CursoC" width="45px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+<br />
 
 ## 🔎 My stats:
 <details>
