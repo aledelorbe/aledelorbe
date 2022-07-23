@@ -1,6 +1,6 @@
-### ¡Hola a todos! Mi nombre es Alejandro - aka [aledelorbe][Facebook] 👋
+### Hello everyone! My name is Alejandro - aka [aledelorbe][Facebook] 👋
 
-## Soy estudiante y desarrollador de Software
+## I'm student and I'm software designer.
 
 
 ## 🔎 Mis estadisticas:
