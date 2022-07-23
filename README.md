@@ -6,6 +6,7 @@
 ## 🔎 My stats:
 <details>
     <summary>🔎 View </summary>
+<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aledelorbe&show_icons=true&theme=tokyonight)
 
