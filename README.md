@@ -1,4 +1,4 @@
-### Hello everyone! My name is Alejandro - aka [aledelorbe][Facebook] 👋
+### Hello everyone! My name is Alejandro - aka aledelorbe 👋
 
 ## I'm student and I'm software designer.
 
