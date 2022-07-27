@@ -35,7 +35,7 @@
 
 ### Contact me!:
 
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDKcddWcbBJChwQmswzsBmcTKckcjxkKbLVwzTrcdMVmcdNWZTHcPBWXlTWdQRGftsHg" >   <img align="left" alt="gmail" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_(2013-2020).svg" /> </a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJlFDKcddWcbBJChwQmswzsBmcTKckcjxkKbLVwzTrcdMVmcdNWZTHcPBWXlTWdQRGftsHg" target="_blank">   <img align="left" alt="gmail" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_(2013-2020).svg" /> </a>
 alejandro.magb@gmail.com
 
 
