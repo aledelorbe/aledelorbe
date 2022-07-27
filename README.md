@@ -35,9 +35,7 @@
 
 ### Contact me!:
 
-[<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />][Gmail]
+[<a href="mailto:alejandro.magb@gmail.com"> <img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" /> </a>][Gmail]
 
 
 
-
-[Gmail]: https://www.facebook.com/martinalejandro.granadosbello
