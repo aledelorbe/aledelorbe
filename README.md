@@ -35,9 +35,9 @@
 
 ### Contact me!:
 
-[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][Facebook]
+[<img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" />][Gmail]
 
 
 
 
-[Facebook]: https://www.facebook.com/martinalejandro.granadosbello
+[Gmail]: https://www.facebook.com/martinalejandro.granadosbello
