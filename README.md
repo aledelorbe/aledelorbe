@@ -1,6 +1,6 @@
 ### Hello everyone! I'm Alejandro - aka aledelorbe 👋
 
-## I'm student and I'm software designer.
+## I'm student and software designer.
 
 ### Languages and Tools:
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
