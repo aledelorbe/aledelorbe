@@ -4,7 +4,7 @@
 
 ### Languages and Tools:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
   <img alt="TypeScript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
   <img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
