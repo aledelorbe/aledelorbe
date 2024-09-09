@@ -6,7 +6,7 @@
 <img align="left" alt="CursoC" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" />
-<img align="left" alt="CursoC" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" />
+<img align="left" alt="CursoC" width="40px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
