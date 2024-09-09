@@ -11,13 +11,13 @@
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-<img align="left" alt="CursoC" width="40px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
-<img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
-<img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
+<img align="left" alt="CursoC" width="60px" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" />
+<img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+<img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="CursoC" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" />
 
 
